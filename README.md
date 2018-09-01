@@ -1,7 +1,7 @@
 # VertxWithWordsProject
 
 
-## Excercise
+## Excercise <- (the projects name)
 
 ### Explanation
 
